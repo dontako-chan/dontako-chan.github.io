@@ -1,0 +1,18 @@
+body{
+    background-color: #efe0ff;
+}
+
+.container-fluid{
+    display:flex;
+    justify-content: space-between;
+}
+
+
+.left-menu{
+    width:20%;
+    background-color: aliceblue;
+}
+
+.main-content{
+    width:80%;
+}
